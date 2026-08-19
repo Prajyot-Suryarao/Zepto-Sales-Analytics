@@ -55,17 +55,6 @@ Comparing original and current prices provides visibility into pricing and disco
 
 The dashboard includes influencer activity alongside city-level order analysis, allowing potential relationships between influencer activity and order performance to be explored.
 
-## 📁 Repository Structure
-- Zepto-Sales-Analytics/
-- │
-- ├── Zepto Sales Analytics.pbix
-- │
-- ├── README.md
-- │
-- └── screenshots/
--    ├── home-dashboard.png
--    └── sales-overview.png
-
 ## 🖼️ Dashboard Preview
 
 ### 1️⃣ Home Page
