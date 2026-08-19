@@ -1,4 +1,4 @@
-# 📊 Zepto-Sales-Analytics
+## 📊 Zepto-Sales-Analytics
 
 ## 📌 Project Overview
 
@@ -65,8 +65,6 @@ The dashboard includes influencer activity alongside city-level order analysis, 
 - └── screenshots/
 -    ├── home-dashboard.png
 -    └── sales-overview.png
-
-Add screenshots of your Power BI dashboard inside the screenshots folder to make the GitHub repository more attractive.
 
 ## 🖼️ Dashboard Preview
 
