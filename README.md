@@ -70,9 +70,9 @@ Add screenshots of your Power BI dashboard inside the screenshots folder to make
 
 ## 🖼️ Dashboard Preview
 
-![Home Dashboard](screenshots/home-dashboard.png)
+![Home Dashboard](screenshots/images)
 
-![Sales Overview Dashboard](screenshots/sales-overview.png)
+![Sales Overview Dashboard](screenshots/images)
 
 ## 🚀 Business Impact
 - Provides a single interactive view of Zepto's sales performance.
