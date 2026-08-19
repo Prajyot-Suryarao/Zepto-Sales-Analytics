@@ -1,6 +1,6 @@
 # 📊 Zepto-Sales-Analytics
 
-📌 Project Overview
+## 📌 Project Overview
 
 Zepto Sales Analytics is an interactive Power BI dashboard designed to analyze sales performance, orders, revenue, discounts, product categories, and city-level business activity.
 
@@ -8,7 +8,7 @@ The dashboard transforms sales data into meaningful visual insights that can hel
 
 The project was developed using Microsoft Power BI with interactive visualizations, KPI cards, slicers, and analytical charts.
 
-🎯 Business Objectives
+## 🎯 Business Objectives
 Analyze overall sales and order performance.
 Track Total Revenue, Total Orders, and Total Discount.
 Identify product categories generating the highest number of orders.
@@ -20,21 +20,14 @@ Compare Original Price vs Current Price to evaluate pricing and discount impact.
 Analyze influencer activity alongside city-level order performance.
 Provide an interactive dashboard to support data-driven business decisions.
 
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 Microsoft Power BI – Dashboard development and interactive data visualization
 Power Query – Data cleaning, transformation, and preparation
 DAX – KPI calculations and analytical measures
 Power BI Visuals – Bar Chart, Line Chart, Donut Chart, Pie Chart, Funnel Chart, and Gauge Chart
 GitHub – Project documentation and portfolio presentation
 
-Which product categories generate the highest number of orders?
-Which cities generate the most orders?
-Which cities contribute the most revenue?
-How does discount vary across cities?
-Which categories generate the highest revenue?
-What is the difference between original and current prices?
-How can city and category performance be compared interactively?
-💡 Business Insights
+## 💡 Business Insights
 
 The dashboard can be used to identify:
 
@@ -62,7 +55,7 @@ Comparing original and current prices provides visibility into pricing and disco
 
 The dashboard includes influencer activity alongside city-level order analysis, allowing potential relationships between influencer activity and order performance to be explored.
 
-📁 Repository Structure
+## 📁 Repository Structure
 Zepto-Sales-Analytics/
 │
 ├── Zepto Sales Analytics.pbix
@@ -75,17 +68,13 @@ Zepto-Sales-Analytics/
 
 Add screenshots of your Power BI dashboard inside the screenshots folder to make the GitHub repository more attractive.
 
-🖼️ Dashboard Preview
-
-After uploading screenshots to GitHub, add them here:
-
-## Dashboard Preview
+## 🖼️ Dashboard Preview
 
 ![Home Dashboard](screenshots/home-dashboard.png)
 
 ![Sales Overview Dashboard](screenshots/sales-overview.png)
 
-🚀 Business Impact
+## 🚀 Business Impact
 Provides a single interactive view of Zepto's sales performance.
 Helps identify high-performing cities and product categories.
 Supports better pricing and discount strategy.
@@ -95,6 +84,6 @@ Provides insights into city-level business performance.
 Supports identification of potential opportunities for sales growth and optimization.
 Reduces dependency on manual reporting and enables faster, data-driven decision-making.
 
- 📁 Project File
+ ## 📁 Project File
 The complete interactive dashboard is available in the `.pbix` file included in this repository.
 
