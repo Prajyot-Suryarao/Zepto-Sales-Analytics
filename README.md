@@ -70,7 +70,7 @@ Add screenshots of your Power BI dashboard inside the screenshots folder to make
 
 ## 🖼️ Dashboard Preview
 
-![Home Dashboard](screenshots/images)
+![Home Dashboard](screenshots/https://github.com/Prajyot-Suryarao/Zepto-Sales-Analytics/blob/main/images/home-dashboard.png.png)
 
 ![Sales Overview Dashboard](screenshots/images)
 
